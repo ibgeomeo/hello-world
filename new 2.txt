@@ -1,0 +1,13 @@
+
+Dell drac ansible
+https://github.com/dell/dellemc-openmanage-ansible-modules
+
+
+Vmware modules 
+https://pypi.org/project/pyvmomi/
+
+$ git clone --single-branch https://github.com/vmware/pyvmomi
+$ cd pyvmomi
+$ python setup.py develop
+
+
